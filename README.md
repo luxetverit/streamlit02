@@ -1,2 +1,1 @@
-# streamlit02
-streamlit02
+# 스트림릿
